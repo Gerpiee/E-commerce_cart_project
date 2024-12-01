@@ -36,6 +36,9 @@ This project is an e-commerce cart application built with React.js, Redux, and M
 - **Dynamic UI Components**: Uses Material-UI and React-Bootstrap for building dynamic, reusable components.
 - **Unit Testing**: Includes testing configurations with Testing Library.
 
+##ScreenShots
+https://github.com/Gerpiee/E-commerce_cart_project/issues/1
+
 ## Getting Started
 
 ### Prerequisites
